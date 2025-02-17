@@ -1,5 +1,5 @@
 # Hello, I'm Julio 👋
-### .NET Developer | ASP.NET | Problem Solver
+### .NET Developer | ASP.NET | Problem Tackler
 
 ## About Me
 Driven by a profound commitment to resilience and continuous learning, I have transformed personal adversity, including a major financial setback coinciding with the news of fatherhood, into a catalyst for professional growth in the tech domain. Specialized in C# and ASP.NET, I combine a strong logical and problem-solving mindset, fostered by my early start in programming, with the ability to create intuitive, dynamic user interfaces using Blazor, WPF and Windows Forms. Also experienced in SQL, REST APIs and Entity Framework, I walk the path to build an international career as a dependable .NET professional by leveraging the lessons learned from my toughest life experiences.
