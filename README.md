@@ -14,6 +14,7 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Forms]([https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/Windows%20Forms-239120?style=for-the-badge&logo=c-sharp&logoColor=white))
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Frontend
