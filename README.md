@@ -17,12 +17,6 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Frontend
-- Blazor & MudBlazor
-- Windows Presentation Foundation (WPF)
-- Windows Forms
-- XAML
-
 ### Backend & Database
 - Entity Framework
 - REST APIs
@@ -30,6 +24,12 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 - Azure SQL
 - MVC Architecture
 - MVVM Architecture
+
+### Frontend
+- Blazor & MudBlazor
+- Windows Presentation Foundation (WPF)
+- Windows Forms
+- XAML
 
 ### Cloud
 - Microsoft Azure
