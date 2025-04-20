@@ -23,8 +23,8 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 - REST APIs
 - Microsoft SQL Server
 - Azure SQL
-- MVC Architecture
 - MVVM Architecture
+- MVC Architecture
 
 ### Frontend
 - Blazor & MudBlazor
