@@ -23,6 +23,7 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 - Entity Framework
 - REST APIs
 - Microsoft SQL Server
+- Oracle
 - Azure SQL
 - MVVM Architecture
 - MVC Architecture
