@@ -26,7 +26,6 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 - Oracle
 - Azure SQL
 - MVVM Architecture
-- MVC Architecture
 
 ### Frontend
 - Blazor & MudBlazor
