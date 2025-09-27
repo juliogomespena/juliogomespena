@@ -7,17 +7,31 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 ## 🛠️ Technical Skills
 
 ### Core Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![ORACLE](https://img.shields.io/badge/ORACLE-990000?style=for-the-badge&logo=ORACLE&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
-![PRISM](https://img.shields.io/badge/PRISM-025E8C?style=for-the-badge&logo=Prism&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Win%20Forms-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23%20.NET-%23239120.svg?logo=cshrp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=fff)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-DD0000?logo=sqlang&logoColor=fff)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-0F1689?logo=dotnet&logoColor=fff)
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+![ORACLE](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
+![WPF](https://img.shields.io/badge/WPF-5A0EF8?logo=dotnet&logoColor=fff)
+![PRISM](https://img.shields.io/badge/Prism-2D3748?logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/WinForms-57A143?logo=dotnet&logoColor=fff)
+![xUnit](https://img.shields.io/badge/xUnit-01A4FF?logo=dotnet&logoColor=fff)
+![DDD](https://img.shields.io/badge/DDD-F15A24?logo=DDD&logoColor=fff)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-E50914?logo=CleanArchitecture&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-241F31?logo=solidd&logoColor=fff)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
+![GIT](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-000?logo=githubcopilot&logoColor=fff)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 
 ### Backend & Database
 - ASP.NET Core
@@ -49,6 +63,7 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 - Microsoft Azure
 
 ### Tools
+- Git
 - Postman
 - Jira
 - GitHub
