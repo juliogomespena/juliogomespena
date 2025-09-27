@@ -20,12 +20,24 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 ![Windows Forms](https://img.shields.io/badge/Win%20Forms-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Backend & Database
-- Entity Framework
+- ASP.NET Core
 - REST APIs
+- SQL
+- Entity Framework
 - Microsoft SQL Server
 - Oracle
 - Azure SQL
+- SQLite
+- PostgreSQL
+- MySQL
+- Clean Architecture
+- Domain Driven Design
+- Modular Monolith
+- Prism Framework
 - MVVM Architecture
+- Unit Testing with xUnit
+- JSON
+- XML
 
 ### Frontend
 - Blazor & MudBlazor
@@ -36,18 +48,15 @@ Driven by a profound commitment to resilience and continuous learning, I have tr
 ### Cloud
 - Microsoft Azure
 
-## 🚀 Featured Project
+### Tools
+- Postman
+- Jira
+- GitHub
+- BitBucket
 
-### FastBox – Automotive Service Management System
-A comprehensive workshop management solution built with C# .NET 8, Entity Framework Core, and Windows Forms.
-
-**Key Features:**
-- Service order management with automated status tracking
-- Dynamic budget management with real-time cost and profit calculations
-- Advanced client, vehicle, and supplier management
-- Flexible payment processing with partial payment support
-- Dynamic filtering and search capabilities
-- Cloud integration with Microsoft Azure
+### Project management and workflows
+- Scrum
+- Agile metodology
 
 ## 🌐 Languages
 - English (Advanced)
