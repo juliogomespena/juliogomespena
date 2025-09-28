@@ -35,17 +35,11 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 ![GitHub](https://img.shields.io/badge/GitHub-000?logo=githubcopilot&logoColor=fff)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 
-### Backend & Database
+### Backend
 - ASP.NET Core
 - REST APIs
 - SQL
 - Entity Framework
-- Microsoft SQL Server
-- Oracle
-- Azure SQL
-- SQLite
-- PostgreSQL
-- MySQL
 - Clean Architecture
 - Domain Driven Design
 - Modular Monolith
@@ -54,6 +48,14 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 - Unit Testing with xUnit
 - JSON
 - XML
+
+### Database
+- Oracle
+- Microsoft SQL Server
+- Azure SQL
+- SQLite
+- PostgreSQL
+- MySQL
 
 ### Frontend
 - Blazor & MudBlazor
