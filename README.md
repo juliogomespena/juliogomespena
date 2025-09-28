@@ -75,7 +75,7 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 
 ### Project management and workflows
 - Scrum
-- Agile metodology
+- Agile methodology
 
 ## 🌐 Languages
 - English (Advanced)
