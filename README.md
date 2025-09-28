@@ -23,7 +23,7 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 ![WPF](https://img.shields.io/badge/WPF-5A0EF8?logo=dotnet&logoColor=fff)
 ![PRISM](https://img.shields.io/badge/Prism-2D3748?logo=dotnet&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/WinForms-57A143?logo=dotnet&logoColor=fff)
-![xUnit](https://img.shields.io/badge/xUnit-01A4FF?logo=dotnet&logoColor=fff)
+![xUnit](https://custom-icon-badges.demolab.com/badge/xUnit-01A4FF?logo=xunit&logoColor=fff)
 ![DDD](https://img.shields.io/badge/DDD-F15A24?logo=DDD&logoColor=fff)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-E50914?logo=CleanArchitecture&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-241F31?logo=solidd&logoColor=fff)
