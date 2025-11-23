@@ -1,5 +1,5 @@
 # Hello, I'm Julio 👋
-### .NET Developer | ASP.NET Core | Problem Tackler
+### Software Engineer | Problem Tackler
 
 ## About Me
 I craft performance-minded .NET solutions that turn operational bottlenecks into smooth user experiences. At Newhotel I migrated a long-lived SOAP web service to modern .NET REST APIs while maintaining a proxy façade so existing request/response formats remain stable for customers integrations while the platform evolves.
