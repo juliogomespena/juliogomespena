@@ -2,9 +2,15 @@
 ### .NET Developer | ASP.NET Core | Problem Tackler
 
 ## About Me
-Driven by a profound commitment to resilience and continuous learning, I have transformed personal adversity, including a major financial setback coinciding with the news of fatherhood, into a catalyst for professional growth in the tech domain. Specialized in C# and ASP.NET, I combine a strong logical and problem-solving mindset, fostered by my early start in programming, with the ability to create intuitive, dynamic user interfaces using Blazor, WPF and Windows Forms. Also experienced in SQL, REST APIs and Entity Framework, I walk the path to build an international career as a dependable .NET professional by leveraging the lessons learned from my toughest life experiences.
+I craft performance-minded .NET solutions that turn operational bottlenecks into smooth user experiences. At Newhotel I migrated a long-lived SOAP web service to modern .NET REST APIs while maintaining a proxy façade so existing request/response formats remain stable for customers integrations while the platform evolves.
 
-Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Server, MySQL, SQLite & PostgreSQL), Entity Framework (EFCore), WPF, Prism Framework and Blazor.
+Alongside the migration, I’ve delivered integrations across the hospitality stack. Portuguese CIUS-PT, Polish and Colombian fiscalization services; Backend support for tourism-tax payments; XML configuration tool for the PMS notification client; Phone centrals integrations and digital room-lock backend services.
+
+I bring a resilience-driven learning mindset. After a major financial setback and becoming a father, I doubled down on C#/.NET growth. 
+
+Azure Fundamentals Certified (AZ-900), planning to go for Azure AI Fundamentals (AI-900) in the next months. Continuous Integration & Continuous Deployment (CI/CD) practitioner with hands-on experience delivering GitHub Actions pipelines.
+
+Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Server, MySQL, SQLite & PostgreSQL), Entity Framework (EFCore), WPF, Prism Framework.
 
 ## 🛠️ Technical Skills
 
@@ -19,7 +25,9 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-3f65ff.svg?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-ff963f.svg?logo=cicd&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-505b86.svg?logo=github&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5A0EF8?logo=dotnet&logoColor=fff)
 ![PRISM](https://img.shields.io/badge/Prism-2D3748?logo=dotnet&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/WinForms-57A143?logo=dotnet&logoColor=fff)
@@ -58,13 +66,15 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 - MySQL
 
 ### Frontend
-- Blazor & MudBlazor
 - Windows Presentation Foundation (WPF)
 - Windows Forms
 - XAML
 
-### Cloud
+### Cloud & Infrastructure
 - Microsoft Azure
+- Docker
+- CI/CD
+- GitHub Actions
 
 ### Tools
 - Git
