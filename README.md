@@ -54,8 +54,6 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 - Prism Framework
 - MVVM Architecture
 - Unit Testing with xUnit
-- JSON
-- XML
 
 ### Database
 - Oracle
@@ -65,16 +63,16 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 - PostgreSQL
 - MySQL
 
-### Frontend
-- Windows Presentation Foundation (WPF)
-- Windows Forms
-- XAML
-
 ### Cloud & Infrastructure
 - Microsoft Azure
 - Docker
 - CI/CD
 - GitHub Actions
+
+### Frontend
+- Windows Presentation Foundation (WPF)
+- Windows Forms
+- XAML
 
 ### Tools
 - Git
@@ -82,6 +80,8 @@ Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Se
 - Jira
 - GitHub
 - BitBucket
+- JSON
+- XML
 
 ### Project management and workflows
 - Scrum
