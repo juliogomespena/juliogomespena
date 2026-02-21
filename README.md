@@ -8,7 +8,7 @@ Alongside the migration, I’ve delivered integrations across the hospitality st
 
 I bring a resilience-driven learning mindset. After a major financial setback and becoming a father, I doubled down on C#/.NET growth. 
 
-Azure Fundamentals Certified (AZ-900), planning to go for Azure AI Fundamentals (AI-900) in the next months. Continuous Integration & Continuous Deployment (CI/CD) practitioner with hands-on experience delivering GitHub Actions pipelines.
+Azure Fundamentals (AZ-900) and AI Fundamentals (AI-900) certified. Continuous Integration & Continuous Deployment (CI/CD) practitioner with hands-on experience delivering GitHub Actions pipelines.
 
 Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Server, MySQL, SQLite & PostgreSQL), Entity Framework (EFCore), WPF, Prism Framework.
 
