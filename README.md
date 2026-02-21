@@ -2,15 +2,17 @@
 ### Software Engineer | Problem Tackler
 
 ## About Me
-I craft performance-minded .NET solutions that turn operational bottlenecks into smooth user experiences. At Newhotel I migrated a long-lived SOAP web service to modern .NET REST APIs while maintaining a proxy façade so existing request/response formats remain stable for customers integrations while the platform evolves.
+I craft performance-minded .NET solutions that turn operational bottlenecks into smooth user experiences. 
 
-Alongside the migration, I’ve delivered integrations across the hospitality stack. Portuguese CIUS-PT, Polish and Colombian fiscalization services; Backend support for tourism-tax payments; XML configuration tool for the PMS notification client; Phone centrals integrations and digital room-lock backend services.
+At CODIT, I built an AI‑driven exception interpreter using Azure AI Foundry, fetching instructions from Blob Storage, securing secrets with Key Vault, and Entra ID for production authentication. Fully deployed via Bicep and gated with feature flags. A targeted cost analysis delivered ~96% LLM cost savings.
 
-I bring a resilience-driven learning mindset. After a major financial setback and becoming a father, I doubled down on C#/.NET growth. 
+I also modernized backend components, adding resiliency policies to outbound HTTP calls and replacing exception‑driven logic with a Result pattern, backed by adjusted integration tests for a smooth transition. On the frontend, I handled React bug‑fixing and added unit/regression tests.
 
-Azure Fundamentals (AZ-900) and AI Fundamentals (AI-900) certified. Continuous Integration & Continuous Deployment (CI/CD) practitioner with hands-on experience delivering GitHub Actions and Azure Devops pipelines.
+In past experiences, migrated a long-lived SOAP web service to modern .NET REST APIs while maintaining a proxy façade so existing request/response formats remained stable for customers integrations while the platform evolved. 
 
-Comfortable working across C# .NET, ASP.NET Core, REST APIs, SQL (Oracle, SQL Server, MySQL, SQLite & PostgreSQL), Entity Framework (EFCore), WPF, Prism Framework.
+Alongside the migration, I’ve delivered integrations across the hospitality stack. Portuguese CIUS-PT, Polish and Colombian financial fiscalization services; Backend support for tourism-tax payments; XML configuration tool for notification clients; Phone centrals integrations and digital room-lock backend services.
+
+Comfortable working across C# .NET, ASP.NET Core, Azure architecture and infrastructures, REST APIs, SQL and NoSQL, Continuous Integration and Continuous Development (Azure Devops and Github Actions), Azure Functions and Logic Apps, Entity Framework, Oracle, SQL Server, PostgreSQL, SQLite and React.
 
 ## 🛠️ Technical Skills
 
